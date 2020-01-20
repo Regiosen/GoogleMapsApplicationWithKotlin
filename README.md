@@ -19,4 +19,10 @@ La aplicación también tiene un medidor de velocidad, en la parte inferior de l
 poder observar una ventana circular con texto que indica la velocidad estimada del usuario en
 metros sobre segundos.
 
+Bugs Menores Conocidos:
+
+La primera vez que se ejecuta la aplicación, cuando pide el permiso para utilizar el GPS,
+la aplicación no está mostrando la localización del usuario. Cerrar y abrir la aplicación
+una vez que se le dió el permiso soluciona el problema.
+
 Autor: Sergio Barrios
