@@ -1,4 +1,4 @@
-# GoogleMapsApplicationWithKotlin
+# Google Maps Application With Kotlin
 
 En este repositorio está el código fuente de una aplicación en Kotlin que utiliza
 Google Maps para detectar la posición del usuario en un mapa 
