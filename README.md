@@ -1,6 +1,7 @@
-# PruebaMiAguila
+# GoogleMapsApplicationWithKotlin
 
-En este repositorio está el código fuente de la prueba para Mi Aguila. 
+En este repositorio está el código fuente de una aplicación en Kotlin que utiliza
+Google Maps para detectar la posición del usuario en un mapa 
 Tambien se puede conseguir el APK que contiene la aplicación que se deseaba.
 El APK tiene el siguiente nombre: app-debug.apk
 
